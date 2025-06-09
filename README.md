@@ -1,6 +1,5 @@
-# mineral_classifier
-Clasificador de minerales
+# Clasificador de minerales
 
-* torch
+* Pytorch
+* MobileNetV2
 * Data augmentation
-* RNN movilnet2
