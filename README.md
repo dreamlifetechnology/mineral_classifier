@@ -1,4 +1,4 @@
-# Clasificador de minerales
+# CNN - Clasificador de minerales
 
 * Pytorch
 * MobileNetV2
